@@ -2,6 +2,12 @@
 
 This file distinguishes constitutional changes from publication and licensing events. Urlicht remains the governing source; this repository distributes public versions and receives proposals.
 
+## September 16, 2026 — poster added to the README
+
+- Added `art/themis-the-order-that-endures.jpg`, a reduced copy of the allegorical poster “Themis, the Order That Endures,” with its caption and a provenance statement beneath it in the README. The picture illustrates the Constitution and is not part of it.
+- The artwork is outside the CC BY-SA 4.0 scope, which covers `CONSTITUTION.md` only; its own statement permits reuse with credit. The scope paragraph in the README says so.
+- `CONSTITUTION.md`, `LICENSE`, the `v1.0` tag and its release are unchanged. This is a documentation change, not a constitutional version.
+
 ## September 14, 2026 — GitHub distribution of unchanged v1.0
 
 - Published this dedicated repository with `CONSTITUTION.md`, provenance, attribution and contribution guidance, and the official CC BY-SA 4.0 legal code.
