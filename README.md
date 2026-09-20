@@ -14,7 +14,7 @@ The charter describes how Patrick intends his independent Frontier project to be
 
 ## Authorship and governing source
 
-The constitutional text is © 2026 Patrick Yaeger. **Urlicht, Patrick's own knowledge system, remains the canonical governing source.** This GitHub repository is the public distribution and contribution venue. The [website](https://myfrontierai.com/constitution.html) and this Markdown edition are publication derivatives.
+The constitutional text is © 2026 Patrick Yaeger. **Patrick's own private knowledge system remains the canonical governing source.** This GitHub repository is the public distribution and contribution venue. The [website](https://myfrontierai.com/constitution.html) and this Markdown edition are publication derivatives.
 
 Only Patrick's explicit, recorded approval can amend his canonical Constitution. An issue, pull request, merge of publication documentation, or independent adaptation does not by itself amend it. Substantive or literary changes to Patrick's Constitution require a separately versioned release and a recorded purpose and downstream implications.
 
@@ -30,7 +30,7 @@ Only Patrick's explicit, recorded approval can amend his canonical Constitution.
 
 The original website history is preserved: [August 3 publication](https://github.com/pyaeger/myfrontierai/commit/f6629697a8ba77b2c0e7453c2fd959336b07f918) and [August 13 freeze and license](https://github.com/pyaeger/myfrontierai/commit/a6cfcd0c7de495c0509101024647d815d9ef9362). See [CHANGELOG.md](CHANGELOG.md).
 
-On September 14, the published preamble, thirteen articles and closing declaration were compared with the Urlicht source and matched after removal of presentation markup and normalization of whitespace. `CONSTITUTION.md` preserves the canonical Markdown document body verbatim, including its Public Draft label and version notes. Only the local file-management YAML frontmatter is omitted; it is not constitutional text. The webpage's constitutional body is unchanged.
+On September 14, the published preamble, thirteen articles and closing declaration were compared with the canonical source and matched after removal of presentation markup and normalization of whitespace. `CONSTITUTION.md` preserves the canonical Markdown document body verbatim, including its Public Draft label and version notes. Only the local file-management YAML frontmatter is omitted; it is not constitutional text. The webpage's constitutional body is unchanged.
 
 SHA-256 verification:
 

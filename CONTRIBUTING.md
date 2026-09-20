@@ -1,6 +1,6 @@
 # Forking and proposing improvements
 
-The Frontier Constitution is a reusable personal-AI governance charter. GitHub provides a public venue for distribution, discussion and proposed improvements. Patrick Yaeger's Urlicht knowledge system remains his canonical governing source.
+The Frontier Constitution is a reusable personal-AI governance charter. GitHub provides a public venue for distribution, discussion and proposed improvements. Patrick Yaeger's private knowledge system remains his canonical governing source.
 
 ## Your independent adaptation
 
@@ -18,7 +18,7 @@ Give the adaptation its own identity and owner. Retain required attribution and 
 
 A pull request is a proposal. **Only Patrick's explicit, recorded approval can amend his canonical Constitution.** Review, consensus and a merged documentation change are not substitutes for that decision.
 
-For an approved constitutional amendment, Patrick's governing record must state the decision, date, purpose, new version and downstream implications. The canonical source is updated under his authority, then verified publication derivatives are released. This repository does not automatically write to Urlicht or deploy runtime changes.
+For an approved constitutional amendment, Patrick's governing record must state the decision, date, purpose, new version and downstream implications. The canonical source is updated under his authority, then verified publication derivatives are released. This repository does not automatically write to the canonical source or deploy runtime changes.
 
 ## Preserve the baseline
 

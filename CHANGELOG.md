@@ -1,6 +1,6 @@
 # Change history
 
-This file distinguishes constitutional changes from publication and licensing events. Urlicht remains the governing source; this repository distributes public versions and receives proposals.
+This file distinguishes constitutional changes from publication and licensing events. The canonical source remains governing; this repository distributes public versions and receives proposals.
 
 ## September 16, 2026 — poster added to the README
 
@@ -11,7 +11,7 @@ This file distinguishes constitutional changes from publication and licensing ev
 ## September 14, 2026 — GitHub distribution of unchanged v1.0
 
 - Published this dedicated repository with `CONSTITUTION.md`, provenance, attribution and contribution guidance, and the official CC BY-SA 4.0 legal code.
-- Verified the public webpage's preamble, thirteen articles and closing declaration against the canonical Urlicht source. Preserved the canonical Markdown body; omitted only its local file-management frontmatter.
+- Verified the public webpage's preamble, thirteen articles and closing declaration against the canonical source. Preserved the canonical Markdown body; omitted only its local file-management frontmatter.
 - Established the `v1.0` tag and GitHub release on the actual distribution date. This is not a new constitutional version and does not backdate the release.
 - Future versions must preserve this baseline tag and release. Documentation changes do not silently amend the charter.
 
