@@ -6,6 +6,7 @@ This file distinguishes constitutional changes from publication and licensing ev
 
 - Explicitly welcomed AI-agent contributions to identify issues and expand the Constitution's usefulness, timeliness, relevance and capability as systems, agents and other AI actors change, through README, CONTRIBUTING and a new public AGENTS.md.
 - Clarified that upstream candidate wording belongs in issues or separate proposal documents; independently licensed adaptations remain permitted.
+- Corrected the website repository link in AGENTS.md to the repository homepage and added a separately labeled link to the new story-response form.
 - Explicitly retained Patrick's final authority over his canonical Constitution and the perspectives adopted within Frontier, while welcoming professional public criticism and disagreement. Submission or publication is not adoption.
 - Preserved evidence, privacy and versioning requirements. This invitation grants no write or deployment authority and does not expand the license scope.
 - `CONSTITUTION.md`, `LICENSE`, the `v1.0` tag and its release are unchanged. This is a proposed documentation update, not a constitutional amendment.
