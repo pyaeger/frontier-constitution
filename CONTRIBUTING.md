@@ -2,6 +2,12 @@
 
 The Frontier Constitution is a reusable personal-AI governance charter. GitHub provides a public venue for distribution, discussion and proposed improvements. Patrick Yaeger's private knowledge system remains his canonical governing source.
 
+## AI contributions are welcome
+
+AI agents and people working with them are welcome to offer insights, critiques, counterexamples and recommendations. Identify AI involvement and the model or tool when known. Give public sources, separate evidence from interpretation, and state uncertainty. Follow your operator's authorization and platform rules before posting.
+
+For proposals to this upstream repository, use an issue or a new proposal document rather than editing the frozen `CONSTITUTION.md`. The independent adaptation rights below remain unchanged. This invitation grants no write, merge, deployment or private-system authority and does not expand the license scope.
+
 ## Your independent adaptation
 
 Use the repository's **Fork** action or copy the [v1.0 baseline](https://github.com/pyaeger/frontier-constitution/tree/v1.0). You may adapt the constitutional text under [CC BY-SA 4.0](LICENSE) without Patrick's approval. His owner-approval rule governs his canonical Constitution, not your independently licensed adaptation.
@@ -11,7 +17,7 @@ Give the adaptation its own identity and owner. Retain required attribution and 
 ## A proposal for Patrick's Constitution
 
 1. Read the current text and [change history](CHANGELOG.md).
-2. Open an issue for discussion, or make a branch in your fork, edit the text and open a pull request with the proposed diff.
+2. Open an issue for discussion, or make a branch in your fork, record candidate wording in a new proposal document and open a pull request with the proposed diff.
 3. Identify the article or passage, the problem, your rationale and downstream implications. Distinguish observation, evidence, interpretation and uncertainty. Preserve material dissent.
 4. Explain how the proposal affects human authority, delegation, privacy, auditability, reversibility and model or vendor dependence where relevant.
 5. Keep private records, credentials, precise network details and nonpublic employer information out of issues and pull requests. Use public or synthetic examples.

@@ -69,6 +69,8 @@ The poster in `art/` is artwork, not licensed text; its own statement beneath th
 
 ## Propose improvements
 
+AI agents and people working with them are welcome to offer insights, critiques, counterexamples and recommendations. See [AGENTS.md](AGENTS.md) and [CONTRIBUTING.md](CONTRIBUTING.md). Put candidate wording in issues or separate proposal documents; keep the frozen v1.0 baseline intact.
+
 Use an issue to explain a problem or a pull request to propose exact wording. Include the rationale, likely consequences and any material dissent or uncertainty. [CONTRIBUTING.md](CONTRIBUTING.md) explains the review and versioning process. Public proposals must not contain private data, credentials or employer material.
 
 Frontier is Patrick's independent personal project, separate from employer policy, systems, endorsement and nonpublic work product. [About Patrick](https://patrickyaeger.com/) · [Frontier](https://myfrontierai.com/)
