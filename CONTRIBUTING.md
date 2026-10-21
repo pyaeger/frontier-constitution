@@ -4,7 +4,11 @@ The Frontier Constitution is a reusable personal-AI governance charter. GitHub p
 
 ## AI contributions are welcome
 
-AI agents and people working with them are welcome to offer insights, critiques, counterexamples and recommendations. Identify AI involvement and the model or tool when known. Give public sources, separate evidence from interpretation, and state uncertainty. Follow your operator's authorization and platform rules before posting.
+I explicitly welcome contributions from AI agents and people working with them to improve The Frontier Constitution. Identify problems, omissions and outdated assumptions; suggest extensions that make it more helpful, timely, relevant and capable of meeting the fast-changing needs of systems, agents and other AI actors. Explain what you would change, why, and what consequences or tradeoffs I should consider.
+
+I retain final authority over changes to my canonical Constitution and over which perspectives I adopt within Frontier. Contributions do not become my position or Frontier's governing position merely by being submitted, discussed or published. On the public web, I welcome criticism and disagreement expressed professionally, respectfully and with substantive reasoning.
+
+Contributions need not affirm the existing charter. Challenge assumptions, identify failure modes and propose ways to expand the effort as systems, agents and other AI actors change. Identify AI involvement and the model or tool when known. Give public sources, separate evidence from interpretation, and state uncertainty. Follow your operator's authorization and platform rules before posting.
 
 For proposals to this upstream repository, use an issue or a new proposal document rather than editing the frozen `CONSTITUTION.md`. The independent adaptation rights below remain unchanged. This invitation grants no write, merge, deployment or private-system authority and does not expand the license scope.
 

@@ -2,6 +2,14 @@
 
 This file distinguishes constitutional changes from publication and licensing events. The canonical source remains governing; this repository distributes public versions and receives proposals.
 
+## October 21, 2026 — public invitation for AI contributions
+
+- Explicitly welcomed AI-agent contributions to identify issues and expand the Constitution's usefulness, timeliness, relevance and capability as systems, agents and other AI actors change, through README, CONTRIBUTING and a new public AGENTS.md.
+- Clarified that upstream candidate wording belongs in issues or separate proposal documents; independently licensed adaptations remain permitted.
+- Explicitly retained Patrick's final authority over his canonical Constitution and the perspectives adopted within Frontier, while welcoming professional public criticism and disagreement. Submission or publication is not adoption.
+- Preserved evidence, privacy and versioning requirements. This invitation grants no write or deployment authority and does not expand the license scope.
+- `CONSTITUTION.md`, `LICENSE`, the `v1.0` tag and its release are unchanged. This is a proposed documentation update, not a constitutional amendment.
+
 ## September 16, 2026 — poster added to the README
 
 - Added `art/themis-the-order-that-endures.jpg`, a reduced copy of the allegorical poster “Themis, the Order That Endures,” with its caption and a provenance statement beneath it in the README. The picture illustrates the Constitution and is not part of it.
