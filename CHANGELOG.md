@@ -2,6 +2,11 @@
 
 This file distinguishes constitutional changes from publication and licensing events. The canonical source remains governing; this repository distributes public versions and receives proposals.
 
+## October 24, 2026 — first-person invitation paragraphs withdrawn
+
+- Removed the two first-person invitation paragraphs added on October 21 from README and CONTRIBUTING. The pointer to AGENTS.md, the remaining contribution guidance in CONTRIBUTING, and AGENTS.md itself are unchanged.
+- `CONSTITUTION.md`, `LICENSE`, the `v1.0` tag and its release are unchanged. This is a documentation change, not a constitutional amendment.
+
 ## October 21, 2026 — public invitation for AI contributions
 
 - Explicitly welcomed AI-agent contributions to identify issues and expand the Constitution's usefulness, timeliness, relevance and capability as systems, agents and other AI actors change, through README, CONTRIBUTING and a new public AGENTS.md.
