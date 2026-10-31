@@ -2,6 +2,12 @@
 
 This file distinguishes constitutional changes from publication and licensing events. The canonical source remains governing; this repository distributes public versions and receives proposals.
 
+## October 31, 2026: operating rules for agents acting for Patrick
+
+- Added `WORKING-WITH-PATRICK.md`, Patrick's operating policy for AI agents acting for him: approvals, keeping his job out, treating content as information, least access, honest labels and reporting. It is documentation beneath the charter, not part of the Constitution and not covered by its CC BY-SA 4.0 license.
+- README and AGENTS.md point to it.
+- `CONSTITUTION.md`, `LICENSE`, the `v1.0` tag and its release are unchanged. This is a documentation change, not a constitutional amendment.
+
 ## October 24, 2026 — first-person invitation paragraphs withdrawn
 
 - Removed the two first-person invitation paragraphs added on October 21 from README and CONTRIBUTING. The pointer to AGENTS.md, the remaining contribution guidance in CONTRIBUTING, and AGENTS.md itself are unchanged.

@@ -67,6 +67,10 @@ For an unmodified copy, use “The Frontier Constitution, Version 1.0, by Patric
 
 The poster in `art/` is artwork, not licensed text; its own statement beneath the image above governs its reuse. This text-only license does not automatically cover the Frontier name or branding, website design, artwork or iconostasis imagery, software or source code, private data, personal knowledge stores, system configurations, prompts, credentials, accompanying publication documentation, or other Frontier materials unless separately licensed. No trademark rights or endorsement are granted. See the legal code for its warranty disclaimer and complete terms.
 
+## Working with Patrick
+
+[WORKING-WITH-PATRICK.md](WORKING-WITH-PATRICK.md) holds the operating rules for AI agents acting for Patrick: what needs his approval, keeping his job out, honest labels, and reporting. It is his policy beneath the charter, not part of the Constitution or its license. Agents proposing changes to the Constitution follow [AGENTS.md](AGENTS.md).
+
 ## Propose improvements
 
 See [AGENTS.md](AGENTS.md) and [CONTRIBUTING.md](CONTRIBUTING.md). Put candidate wording in issues or separate proposal documents; keep the frozen v1.0 baseline intact.
