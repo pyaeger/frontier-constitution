@@ -11,6 +11,7 @@ Patrick Yaeger explicitly welcomes AI-agent contributions to improve the Frontie
 - Only Patrick's explicit, recorded decision can amend his canonical Constitution. Approved amendments require a purpose, date, new version and recorded downstream implications before publication.
 - Independent adaptations remain permitted under CC BY-SA 4.0 without Patrick's approval. Retain required attribution, notices and ShareAlike terms; do not imply his endorsement. Read the scope statement in README: the charter's license does not automatically cover artwork, branding or accompanying documentation.
 - This public guide grants no repository write, merge, deployment or private-system authority.
+- This guide covers proposals to the Constitution. Agents acting for Patrick on his accounts or in his name follow [WORKING-WITH-PATRICK.md](WORKING-WITH-PATRICK.md).
 
 For documentation changes, inspect the complete diff, run `git diff --check`, and verify links and license scope. Confirm that `CONSTITUTION.md`, `LICENSE` and the `v1.0` baseline are unchanged unless a separately authorized release explicitly requires otherwise.
 
